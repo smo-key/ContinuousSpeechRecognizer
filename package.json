@@ -1,0 +1,30 @@
+{
+  "name": "plugin-speech-recognition",
+  "version": "0.2.0",
+  "description": "Cordova Speech Recognition Plugin",
+  "cordova": {
+    "id": "plugin-speech-recognition",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smo-key/ContinuousSpeechRecognizer.git"
+  },
+  "keywords": [
+    "cordova",
+    "speech",
+    "recognition",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "author": "Arthur Pachachura",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/smo-key/ContinuousSpeechRecognizer/issues"
+  },
+  "homepage": "https://github.com/smo-key/ContinuousSpeechRecognizern#readme"
+}
